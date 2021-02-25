@@ -56,4 +56,5 @@ module.exports = {
     historyApiFallback: true,
     open: true,
   },
+  mode: 'development',
 };
